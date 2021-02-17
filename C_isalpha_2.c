@@ -15,7 +15,7 @@ int main(void)
 	else
 	{
 		printf("입력하신 것은 알파벳이 아닙니다.\n");
-	}
+	} // 알파벳인지 아닌지 확인하여 출력하기
 
 	return 0;
 }
